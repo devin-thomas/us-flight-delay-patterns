@@ -1,0 +1,13 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Full upstream archives and expanded source files are local-only.
+data/source/
